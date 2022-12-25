@@ -5,7 +5,6 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
-![](https://lib.instander.in/s3/demos/github/Screenshot_2022-12-25-15-47-23-471-edit_com.android.chrome.jpg)
 
 ## Installation
 
@@ -24,6 +23,8 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 + jQuery for AJAX login and register forms.
 
 ## Demo:
+
+![](https://lib.instander.in/s3/demos/github/Screenshot_2022-12-25-15-47-23-471-edit_com.android.chrome.jpg)
 
 [CLICK HERE FOR DEMO](https://ina.instander.in/cookie_login_system/)
 
