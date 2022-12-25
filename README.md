@@ -1,13 +1,15 @@
-# Foobar
+# PHP: Cookie Based Login System
 
-Foobar is a Python library for dealing with word pluralization.
+This login system is based on cookies and mysql php. It uses some frontend libraries and jquery ajax post methods.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
-pip install foobar
+1. Create a MySQL database
+2. Import the SQL file (included in repository)
+3. Change [php/config.php] as per your Database
+4. Start your localhost server
 ```
+
 
  
