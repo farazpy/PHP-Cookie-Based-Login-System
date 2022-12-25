@@ -22,7 +22,7 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 
 ## Demo:
 
-[CLICK HERE FOR DEMO](http://ina.instander.in/cookie_login_system/)
+[CLICK HERE FOR DEMO](https://ina.instander.in/cookie_login_system/)
 
 |Email  | Password |
 | ------------- | ------------- |
