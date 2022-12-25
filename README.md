@@ -16,5 +16,10 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 4. Start your localhost server
 ```
 
+# Libraries Used:       
++ Excella Unified Bootstrap for Front-End
++ jQuery for AJAX login and register forms.
+
+
 
  
