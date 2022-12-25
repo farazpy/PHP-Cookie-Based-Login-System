@@ -21,9 +21,8 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 + jQuery for AJAX login and register forms.
 
 
-> Made By `Faraz Khan` (Web Developer)
 
-## Social:
- 
+## Author:
+ > `Faraz Khan` (Web Developer)
 [Facebook](https://www.facebook.com/farazpyy/)
 [Instagram](https://instagram.com/faraz_py)
