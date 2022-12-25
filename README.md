@@ -22,5 +22,8 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 
 
 > Made By `Faraz Khan` (Web Developer)
-> <https://instagram.com/faraz_py>
+
+## Social:
  
+[Facebook](https://www.facebook.com/farazpyy/)
+[Instagram](https://instagram.com/faraz_py)
