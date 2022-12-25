@@ -23,6 +23,7 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 
 
 ## Author:
- > `Faraz Khan` (Web Developer)
-[Facebook](https://www.facebook.com/farazpyy/)
-[Instagram](https://instagram.com/faraz_py)
+ > `Faraz Khan` (Web Developer) 
+
+* [Facebook](https://www.facebook.com/farazpyy/)
+* [Instagram](https://instagram.com/faraz_py)
