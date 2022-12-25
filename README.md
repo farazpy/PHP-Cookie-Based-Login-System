@@ -20,6 +20,6 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 + Excella Unified Bootstrap for Front-End
 + jQuery for AJAX login and register forms.
 
-
+> Made By Faraz Khan (Web Developer)
 
  
