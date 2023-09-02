@@ -21,7 +21,7 @@ This login system is based on cookies and mysql php. It uses some frontend libra
 
 ## Demo:
 
-![](https://lib.instander.in/s3/demos/github/Screenshot_2022-12-25-15-47-23-471-edit_com.android.chrome.jpg)
+![]([https://lib.instander.in/s3/demos/github/Screenshot_2022-12-25-15-47-23-471-edit_com.android.chrome.jpg](https://lib.instander.in/s3/demos/github/cookie_login_system.jpg))
 
 [CLICK HERE FOR DEMO](https://ina.instander.in/cookie_login_system/)
 
